@@ -1,4 +1,4 @@
 a=1
 b=2
 sum=a+b
-print(sum)
+print("sum of two nos. is"sum)
